@@ -1,0 +1,10 @@
+run:
+Nhap so a= 
+4
+Nhap so b= 
+3
+a+b= 7
+a-b= 1
+a/b= 1.3333333333333333
+a%b=1.0
+BUILD SUCCESSFUL (total time: 7 seconds)
